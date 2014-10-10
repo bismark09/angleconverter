@@ -3,16 +3,16 @@ angle Converter
 
 #### development road  
 
-* analytical model
-* integer model
-* dsp model 
-* generated fpga structure
-* human verilog HDL structure 
+* Построение аналитической модели
+* Перевод на вычислительные методы  в целочисленной форме 
+* Построение модели в блоках DSP Builder 
+* Моделирование, тестирование, сравнение результатов с первыми пунктами
+* Ручное описание модели на Verilog HDL
 
 email:  yuri@filatov.pro
 
 Documents:
-1.[Report on the development of an analytical model](https://github.com/bismark09/angleconverter/blob/master/developmentModelKPU.md)
+1.[Выкладки хода разработки аналитической модели](https://github.com/bismark09/angleconverter/blob/master/developmentModelKPU.md)
 
 ![SIN COS](/images/sincos.PNG)
 Format: ![SIN COS](url)
