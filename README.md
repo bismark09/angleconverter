@@ -68,8 +68,8 @@ Format: ![SIN COS](url)
 
 Links
 
-http://github.com - automatic!
-[GitHub](http://github.com)
+https://github.com/bismark09/angleconverter/blob/master/developmentModelKPU.md - automatic!
+[Report development](https://github.com/bismark09/angleconverter/blob/master/developmentModelKPU.md)
 
 Blockquotes
 
