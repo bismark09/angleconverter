@@ -1,7 +1,7 @@
-angle Converter
+Преобразователь угл-код
 ==============
 
-#### development road  
+#### Путь проектирование  
 
 * Построение аналитической модели
 * Перевод на вычислительные методы  в целочисленной форме 
@@ -11,14 +11,11 @@ angle Converter
 
 email:  yuri@filatov.pro
 
-Documents:
+Документы:
 1.[Выкладки хода разработки аналитической модели](https://github.com/bismark09/angleconverter/blob/master/developmentModelKPU.md)
 
 ![SIN COS](/images/sincos.PNG)
 Format: ![SIN COS](url)
-
-
-
 
 
 Вопросы:
