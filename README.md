@@ -11,6 +11,7 @@ angle Converter
 
 email:  yuri@filatov.pro
 
+Documents:
 1.[Report on the development of an analytical model](https://github.com/bismark09/angleconverter/blob/master/developmentModelKPU.md)
 
 ![SIN COS](/images/sincos.PNG)
@@ -20,6 +21,11 @@ Format: ![SIN COS](url)
 
 
 
+Вопросы:
+1. Грубый отсчет - определяет угловое положение до360 угл. град(с достоверностью до 0.4 угл. град.) 
+- что значит с достоверностью, это +- 0.4, или  шаг разрешающей способности АЦП?
+
+2. 
 
 
 

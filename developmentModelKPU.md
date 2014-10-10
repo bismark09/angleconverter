@@ -1,14 +1,17 @@
 development Model KPU 
 ==============
 
-development files for angle Converter 
+в одном градусе  60 минут
+в одной минуте 60 секунд
 
-- [ ] analytical model
-- [ ] integer model
-- [ ] dsp model 
-- [ ] generated fpga structure
-- [ ] human verilog HDL structure 
+1 град = 60 мин = 360 секунд. 
 
-yuri@filatov.pro
+грубый отсчет [0 1296000]сек; ошибка не более чем [0 1440] сек 
+точный отсчет [0 10080]сек;   ошибка не более чем [0 1.25] сек 
+ 
 
+
+
+Код углового положения по грубому отсчету не менее 9 разрядов
+Код углового положения по точному отсчету не менее 12 разрядов
 
