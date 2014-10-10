@@ -1,19 +1,20 @@
 angle Converter
 ==============
 
-development files for angle Converter 
+#### development road  
 
-- [ ] analytical model
-- [ ] integer model
-- [ ] dsp model 
-- [ ] generated fpga structure
-- [ ] human verilog HDL structure 
+* analytical model
+* integer model
+* dsp model 
+* generated fpga structure
+* human verilog HDL structure 
 
-yuri@filatov.pro
+email:  yuri@filatov.pro
 
+1.[Report on the development of an analytical model](https://github.com/bismark09/angleconverter/blob/master/developmentModelKPU.md)
 
-
-
+![SIN COS](/images/sincos.PNG)
+Format: ![SIN COS](url)
 
 
 
@@ -63,13 +64,12 @@ Ordered
 
 Images
 
-![SIN COS](/images/sincos.PNG)
-Format: ![SIN COS](url)
+
 
 Links
 
-https://github.com/bismark09/angleconverter/blob/master/developmentModelKPU.md - automatic!
-[Report development](https://github.com/bismark09/angleconverter/blob/master/developmentModelKPU.md)
+
+
 
 Blockquotes
 
